@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: minima
 title: Michael J. Coughlan, Mathematician/Complex systems scientist
 ---
+
+[Home](/) | [Blog](/blog) | [Publications](#selected-publications) | [Contact](#contact)
 
 <img src="headshot.jpg" alt="Michael J. Coughlan" width="180" style="float:right; margin-left:20px; border-radius:50%;">
 
