@@ -2,7 +2,8 @@
 layout: post
 title: "The halting problem, or, why execution-based testing?"
 date: 2026-03-02
-categories: tech
+categories:
+  - tech
 ---
 
 There is a short list of ideas from early computer science that are (a) worth knowing and (b) just plain fun to think about. One of these is the Halting Problem. This is a landmark undecidability problem from computability theory - the field that describes what can and cannot be computed.  
