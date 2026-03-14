@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comments on ALife"
-date: 2026-03-14
+date: 2025-02-19
 categories:
   - biophysics
   - artificial intelligence
