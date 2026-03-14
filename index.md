@@ -5,8 +5,6 @@ title: Michael J. Coughlan
 
 [Home](/) | [Projects](/projects) | [Blog](/blog) | [Publications](#selected-publications) | [Contact](#contact)
 
-<img src="headshot.jpg" alt="Michael J. Coughlan" width="180" style="float:right; margin-left:20px; border-radius:50%;">
-
 ## About Me
 I am a senior data scientist and head of research at [Kerno](https://kerno.io), working on augmenting AI agents with observability data to proactively fix production software issues, and on graph analytics for micro services. I have a PhD in mathematics from the University of Oxford on dynamical processes on networks, and have done postdoctoral research on modelling and explainability of biological and artificial neural networks. My main research interests focus on modelling complex systems, and I have worked on problems in oceanography, meteorite recovery, analysing animal trajectories, and mathematical problems in industry for manufacturing and tech.
 
