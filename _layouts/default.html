@@ -47,6 +47,10 @@
       </header>
       <section>
 
+      {% if site.banner %}
+        <img src="{{ site.banner | relative_url }}" alt="Banner" style="width:100%; display:block; margin-bottom:24px;" />
+      {% endif %}
+
       {{ content }}
 
       </section>
