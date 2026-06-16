@@ -9,7 +9,7 @@ title: Michael J. Coughlan
 I am currently the founding applied scientist at [Daisy](htps://daisy.inc), forecasting milk supply for milk processors. This involves both the use of complex statistical AI-style modelling and mechanistic, mathematical biology-style modelling.
 Previously I was the founding data scientist at [Kerno](https://kerno.io), building and benchmarking agents for automated integration testing. I have a PhD in mathematics from the University of Oxford on dynamical processes on networks, and have done postdoctoral research on modelling and explainability of biological and artificial neural networks. My main research interests focus on modelling complex systems, and I have worked on problems in oceanography, meteorite recovery, analysing animal trajectories, and mathematical problems in industry for manufacturing and tech.
 
-I still have a visiting position at the Wageningen Institute of Animal Sciences at Wageningen University and Research in the Netherlands where I'm working on biological neural networks and tools for analysis of animal tracks. Previously I worked on problems in oceanography and climate science at the University of Oxford, and on glaciology problems at the University of Manchester, both in the UK.
+I still have a visiting position at the Wageningen Institute of Animal Sciences at [Wageningen University and Research](https://www.wur.nl/en/persons/dr-mj-michael-coughlan) in the Netherlands where I'm working on biological neural networks and tools for analysis of animal tracks. Previously I worked on problems in oceanography and climate science at the University of Oxford, and on glaciology problems at the University of Manchester, both in the UK.
 
 ## Projects
 
